@@ -1,0 +1,14 @@
+<svg width="16.000000" height="16.000000" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip86_26153">
+			<rect id="fa6-brands:hashnode" width="16.000000" height="16.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="fa6-brands:hashnode" width="16.000000" height="16.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip86_26153)">
+		<path id="Vector" d="M1.09961 5.34717C-0.366211 6.78467 -0.366211 9.18799 1.09961 10.6533L5.34668 14.9004C6.78418 16.3657 9.1875 16.3657 10.6533 14.9004L14.8994 10.6533C16.3652 9.18799 16.3652 6.78467 14.8994 5.34717L10.6533 1.1001C9.1875 -0.366211 6.78418 -0.366211 5.34668 1.1001L1.09961 5.34717ZM9.85938 9.85986C8.83105 10.8848 7.16895 10.8848 6.14355 9.85986C5.11523 8.83154 5.11523 7.16895 6.14355 6.14404C7.16895 5.11572 8.83105 5.11572 9.85938 6.14404C10.8838 7.16895 10.8838 8.83154 9.85938 9.85986Z" fill="#737373" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

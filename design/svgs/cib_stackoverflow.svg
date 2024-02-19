@@ -1,0 +1,14 @@
+<svg width="16.000000" height="16.000000" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip86_26158">
+			<rect id="cib:stackoverflow" width="16.000000" height="16.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="cib:stackoverflow" width="16.000000" height="16.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip86_26158)">
+		<path id="Vector" d="M12.6553 14.5757L12.6553 10.3076L14.0801 10.3076L14.0801 16L1.22852 16L1.22852 10.3076L2.64844 10.3076L2.64844 14.5757L12.6553 14.5757ZM4.07227 13.1533L11.2344 13.1533L11.2344 11.7295L4.07227 11.7295L4.07227 13.1533ZM4.24707 9.91943L11.2344 11.3774L11.5342 9.99756L4.5498 8.5415L4.24707 9.91943ZM5.15332 6.54932L11.6221 9.56787L12.2236 8.26807L5.75586 5.24756L5.15332 6.53955L5.15332 6.54932ZM6.96289 3.35938L12.4395 7.93018L13.3457 6.84863L7.86914 2.28076L6.96777 3.35645L6.96289 3.35938ZM10.5 0L9.33594 0.861816L13.6064 6.59863L14.7695 5.73633L10.5 0Z" fill="#737373" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
